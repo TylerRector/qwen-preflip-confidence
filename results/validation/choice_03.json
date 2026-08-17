@@ -1,0 +1,22 @@
+[
+  {
+    "trial_id": "23ed7260b69b",
+    "orientation": "original",
+    "baseline": -6.75,
+    "max_target_error": 0.125,
+    "max_position_drift": 0.125,
+    "negative_margin": -2.875,
+    "positive_margin": 3.125,
+    "pass": true
+  },
+  {
+    "trial_id": "23ed7260b69b",
+    "orientation": "semantic_swapped",
+    "baseline": -6.5,
+    "max_target_error": 0.14999999850988388,
+    "max_position_drift": 0.125,
+    "negative_margin": -2.875,
+    "positive_margin": 2.875,
+    "pass": true
+  }
+]
