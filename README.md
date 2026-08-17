@@ -22,10 +22,3 @@ python src/run_orientation.py --model /path/to/Qwen3-0.6B --split test --index 0
 
 Repeat validation for indices 0 through 3 and both test orientations for indices 0 through 3.
 
-## Paper
-
-```bash
-cd paper
-pdflatex report.tex
-pdflatex report.tex
-```
